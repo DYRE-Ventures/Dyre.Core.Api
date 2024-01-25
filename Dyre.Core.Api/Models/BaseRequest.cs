@@ -1,6 +1,6 @@
 using MediatR;
 
-namespace Shop.Core.Models;
+namespace Dyre.Core.Api.Models;
 
 /// <summary>
 /// The base implementation of the <see cref="IRequest{TResponse}"/> API.

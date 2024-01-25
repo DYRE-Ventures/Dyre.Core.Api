@@ -1,4 +1,4 @@
-namespace Moobii.Core.Mappers;
+namespace Dyre.Core.Api.Mappers;
 
 /// <summary>
 /// The base implementation of the <see cref="IMapper{TIn,TOut}"/> API.

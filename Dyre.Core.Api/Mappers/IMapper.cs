@@ -1,4 +1,4 @@
-namespace Moobii.Core.Mappers;
+namespace Dyre.Core.Api.Mappers;
 
 /// <summary>
 /// An API that describes a mapper.

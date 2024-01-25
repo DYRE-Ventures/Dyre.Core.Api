@@ -1,6 +1,6 @@
 using MediatR;
 
-namespace Shop.Core.Handlers;
+namespace Dyre.Core.Api.Handlers;
 
 /// <summary>
 /// The base implementation of the <see cref="IRequestHandler{TRequest}"/> API.
